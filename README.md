@@ -122,7 +122,7 @@
   <!-- الصف الرابع: الأتمتة والذكاء الاصطناعي (Automation & AI) -->
   <tr>
     <td align="center" width="100">
-        <img src="https://cdn.simpleicons.org/openai/white" width="45" height="45" style="background-color: #10a37f; border-radius: 14px; padding: 10px;" alt="OpenAI" />
+        <img src="https://api.iconify.design/logos:openai-icon.svg" width="45" height="45" style="background-color: #ffffff; border-radius: 14px; padding: 10px;" alt="OpenAI" />
       <br>OpenAI
     </td>
     <td align="center" width="100">
