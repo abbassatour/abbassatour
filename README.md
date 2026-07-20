@@ -18,8 +18,8 @@
 <table align="center">
   <tr>
     <td align="center" width="100">
-      <a href="https://www.linkedin.com/in/abbas-satwr/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="65" height="65" />
+      <a href="https://x.com/SatwrAbbas29309" target="_blank">
+        <img src="https://abs.twimg.com/responsive-web/client-web/icon-ios.77d25eba.png" alt="X" width="65" height="65" style="border-radius: 15px;" />
       </a>
     </td>
     <td align="center" width="100">
