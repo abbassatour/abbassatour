@@ -10,7 +10,7 @@
 
 - 🚀 <samp>Building high-performance applications with **Flutter & Next.js**.</samp>
 - 📱 <samp>Focusing on Cross-Platform solutions & Backend integration.</samp>
-
+- 🤖 <samp>Integrating **AI solutions (OpenAI, Hugging Face)** & **Automated CI/CD** workflows.</samp>
 
 ###
 
@@ -35,7 +35,7 @@
 <h3 align="center"><samp>Languages and Tools:</samp> <img src = "./assets/giphy.gif" width ="23"> </h3>
 
 <table align="center">
-  <!-- الصف الأول: مهاراتك الجديدة والأساسية (Flutter Stack) -->
+  <!-- الصف الأول: مهاراتك الأساسية (Flutter Stack) -->
   <tr>
     <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=flutter" alt="flutter" width="65" height="65" />
@@ -63,7 +63,7 @@
     </td>
   </tr>
 
-  <!-- الصف الثاني: المهارات السابقة (Web Basics) -->
+  <!-- الصف الثاني: مهارات الويب الأساسية (Web Basics) -->
   <tr>
     <td align="center" width="100">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="js" width="65" height="65" />
@@ -116,6 +116,34 @@
     <td align="center" width="100"> 
         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="65" height="65" alt="Git" />
       <br>Git
+    </td>
+  </tr>
+
+  <!-- الصف الرابع: الأتمتة والذكاء الاصطناعي (Automation & AI) -->
+  <tr>
+    <td align="center" width="100">
+        <img src="https://cdn.simpleicons.org/openai/white" width="45" height="45" style="background-color: #10a37f; border-radius: 14px; padding: 10px;" alt="OpenAI" />
+      <br>OpenAI
+    </td>
+    <td align="center" width="100">
+        <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="55" height="55" style="background-color: #FFD21E; border-radius: 14px; padding: 5px;" alt="Hugging Face" />
+      <br>HuggingFace
+    </td>
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="65" height="65" />
+      <br>TensorFlow
+    </td>
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" width="65" height="65" />
+      <br>Git Actions
+    </td>
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="65" height="65" />
+      <br>Docker
+    </td>
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=cypress" alt="Cypress" width="65" height="65" />
+      <br>Cypress
     </td>
   </tr>
 </table>
