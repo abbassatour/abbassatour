@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center"><samp>Hi <img src="./assets/hello.gif"/> , I'm <a href="" target="_blank">Abbas</a></samp></h1>
+<h1 align="center"><samp>Hi <img src="./assets/hello.gif"/> , I'm <a href="https://linkedin.com/in/abbassatour" target="_blank">Abbas</a></samp></h1>
 
 <h3><samp> A Software Engineer specialized in Web & Mobile Development </samp></h3>
 
@@ -17,11 +17,19 @@
 <h3 align="center"><samp>Connect</samp></h3>
 <table align="center">
   <tr>
+    <!-- LinkedIn -->
     <td align="center" width="100">
       <a href="https://linkedin.com/in/abbassatour" target="_blank">
         <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="65" height="65" />
       </a>
     </td>
+    <!-- LeetCode -->
+    <td align="center" width="100">
+      <a href="https://leetcode.com/u/abbassatour/" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="65" height="65" />
+      </a>
+    </td>
+    <!-- Gmail -->
     <td align="center" width="100">
       <a href="mailto:satwrabbas@gmail.com">
         <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="65" height="65" />
@@ -29,6 +37,14 @@
     </td>
   </tr>
 </table>
+
+<br>
+
+<!-- LeetCode Live Stats Card -->
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/abbassatour?theme=dark&font=baloo" alt="Abbas Satour's LeetCode Stats" />
+</div>
+
 <br><br>
 
 <h3 align="center"><samp>Languages and Tools:</samp> <img src = "./assets/giphy.gif" width ="23"> </h3>
