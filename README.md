@@ -18,8 +18,8 @@
 <table align="center">
   <tr>
     <td align="center" width="100">
-      <a href="https://x.com/SatwrAbbas29309" target="_blank">
-        <img src="https://abs.twimg.com/responsive-web/client-web/icon-ios.77d25eba.png" alt="X" width="65" height="65" style="border-radius: 15px;" />
+      <a href="https://linkedin.com/in/abbassatour" target="_blank">
+        <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="65" height="65" />
       </a>
     </td>
     <td align="center" width="100">
@@ -30,12 +30,11 @@
   </tr>
 </table>
 <br><br>
-</div>
 
 <h3 align="center"><samp>Languages and Tools:</samp> <img src = "./assets/giphy.gif" width ="23"> </h3>
 
 <table align="center">
-  <!-- الصف الأول: مهاراتك الأساسية (Flutter Stack) -->
+  <!-- Flutter Stack -->
   <tr>
     <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=flutter" alt="flutter" width="65" height="65" />
@@ -63,7 +62,7 @@
     </td>
   </tr>
 
-  <!-- الصف الثاني: مهارات الويب الأساسية (Web Basics) -->
+  <!-- Web Basics -->
   <tr>
     <td align="center" width="100">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="js" width="65" height="65" />
@@ -91,7 +90,7 @@
     </td>
   </tr>
   
-  <!-- الصف الثالث: أدوات وباقي التقنيات -->
+  <!-- Tools & Other Tech -->
   <tr>
     <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=materialui" alt="materialui" width="65" height="65" />
@@ -119,7 +118,7 @@
     </td>
   </tr>
 
-  <!-- الصف الرابع: الأتمتة والذكاء الاصطناعي (Automation & AI) -->
+  <!-- Automation & AI -->
   <tr>
     <td align="center" width="100">
         <img src="https://api.iconify.design/logos:openai-icon.svg" width="45" height="45" style="background-color: #ffffff; border-radius: 14px; padding: 10px;" alt="OpenAI" />
